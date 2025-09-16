@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on the assembly and quality assessment of **human gut microbiome metagenomic sequencing data**. The workflow included raw read quality control, assembly, and evaluation of the resulting contigs using state-of-the-art bioinformatics tools. The assembled data provides a foundation for downstream **taxonomic profiling** and **functional annotation**.
+This project focuses on the assembly and quality assessment of **human gut microbiome metagenomic sequencing data**. The workflow included raw read quality control, assembly, and evaluation of the resulting contigs using  bioinformatics tools. The assembled data provides a foundation for downstream **taxonomic profiling** and **functional annotation**.
 
 ---
 
